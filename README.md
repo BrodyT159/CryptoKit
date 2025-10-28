@@ -1,13 +1,13 @@
 # CryptoKit
-````markdown
-# 🧩 Java Command-Line CryptoKit
+
+##  Java Command-Line CryptoKit
 
 A lightweight, command-line utility built in **Java** for performing common encoding, decoding, and encryption tasks.  
 This tool is ideal for quick cryptographic operations and data transformations directly from your terminal.
 
 ---
 
-## 🚀 Features
+##  Features
 
 - **Encode:** Convert plain text into Base64, Hexadecimal, or Binary.  
 - **Decode:** Convert Base64, Hexadecimal, or Binary back into plain text.  
@@ -15,7 +15,7 @@ This tool is ideal for quick cryptographic operations and data transformations d
 
 ---
 
-## ⚙️ Setup & Installation
+##  Setup & Installation
 
 ### 1. Requirements
 
@@ -43,9 +43,9 @@ java CryptoKit <command> [options]
 
 ---
 
-## 🧠 Usage & Commands
+##  Usage & Commands
 
-### 🔸 Encode
+###  Encode
 
 Encodes a given string into a specified format.
 
@@ -71,7 +71,7 @@ aGVsbG8gd29ybGQ=
 
 ---
 
-### 🔸 Decode
+###  Decode
 
 Decodes a given string from a specified format back into plain text.
 
@@ -111,7 +111,7 @@ Hello
 
 ---
 
-### 🔸 XOR Cipher
+###  XOR Cipher
 
 Encrypts or decrypts a file using a repeating-key XOR cipher.
 This command reads a file and writes its output to a new file.
@@ -164,20 +164,3 @@ Operation successful. Output saved to: secret.txt
 (This decrypts the file and restores the original content.)
 
 ---
-
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
----
-
-## 💡 Author
-
-**Java Command-Line CryptoKit** — created for developers who value simplicity and efficiency in everyday cryptographic operations.
-
-```
-
----
-
-Would you like me to add badges (like Java version, license, build status, etc.) or a short “Example Output” screenshot section at the top?
-```
